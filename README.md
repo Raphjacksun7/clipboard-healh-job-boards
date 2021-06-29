@@ -6,7 +6,7 @@
   <p align="center">
     A Full Stack Candidate Testing by Clipboard Health
     <br />
-    <a href="https://health-explore-mu.vercel.app/">View Demo</a>
+    <a href="https://clipboard-healh-job-boards.vercel.app/">View Demo</a>
   </p>
 </p>
 
@@ -108,7 +108,7 @@ This application allows health professionals look for a job that matches their n
 
 Jobs are rendered in an accordeon manner. A hospital contains jobs and if you click in a job you can see extended info on that job.
 
-_The best way to learn how to use it is to interact with a live demo [HERE](https://health-explore-mu.vercel.app/)_
+_The best way to learn how to use it is to interact with a live demo [HERE](https://clipboard-healh-job-boards.vercel.app/)_
 
 <!-- LICENSE -->
 
