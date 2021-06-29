@@ -54,9 +54,9 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-- Node 14.15.1 or superior, using nvm:
+- Node 12.0 or superior, using nvm:
   ```sh
-  nvm install install 14.15.1
+  nvm install install 12.0
   ```
 - A modern version of `npm` or `yarn`. This README assumes you have `npm`, but commands are almost always the same.
 
