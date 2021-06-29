@@ -108,7 +108,7 @@ export default function SortingDropdown(props) {
                             active ? "bg-red-600 text-white" : "text-red-600"
                           } flex justify-between w-full px-4 py-2 text-sm leading-5 text-left`}
                         >
-                          Delete filter
+                          Resert
                         </div>
                       )}
                     </Menu.Item>

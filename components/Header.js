@@ -65,11 +65,11 @@ function Header() {
                       <div>
                         <Menu.Button className="bg-blue-500 flex text-sm rounded-full focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white">
                           <span className="sr-only">Open user menu</span>
-                          <span class="border-primary bg-warning-light text-white w-10 h-10 inline-flex items-center align-middle justify-center font-bold"> 
+                          <span className="border-primary bg-warning-light text-white w-10 h-10 inline-flex items-center align-middle justify-center font-bold"> 
                             RA
                           </span>
-                            <div class="absolute -top-1 -right-2 h-5 w-5 my-1 border-2 border-white rounded-full bg-red-500 z-2">
-                              <span class="text-xs text-white font-bold">2</span>
+                            <div className="absolute -top-1 -right-2 h-5 w-5 my-1 border-2 border-white rounded-full bg-red-500 z-2">
+                              <span className="text-xs text-white font-extrabold">2</span>
                             </div>
                         </Menu.Button>
                       </div>

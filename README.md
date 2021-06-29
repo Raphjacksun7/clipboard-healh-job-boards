@@ -4,7 +4,7 @@
   <h1 align="center">Health Explore</h1>
 
   <p align="center">
-    A home asignment by Clipboard Health
+    A Full Stack Candidate Testing by Clipboard Health
     <br />
     <a href="https://health-explore-mu.vercel.app/">View Demo</a>
   </p>
@@ -37,7 +37,7 @@
 
 ## About The Project
 
-![Product Name Screen Shot](https://i.imgur.com/aPgiyqR.png)
+![Product Name Screen Shot](screenshots/screenshot.png)
 
 ### Built With
 
@@ -64,7 +64,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/nonameable/cbh-home-test.git
+   git clone https://github.com/Raphjacksun7/clipboard-healh-job-boards.git
    ```
 2. Install NPM packages
    ```sh
@@ -120,6 +120,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-David Mauricio Delgado Ruiz - [@damaderu](https://twitter.com/damaderu)
+Rapahel AVOCEGAMOU - [@Raphael](https://linkedin.com/in/raphael-avocegamou-b70557111)
 
-Project Link: [https://github.com/nonameable/cbh-home-test](https://github.com/nonameable/cbh-home-test)
+Project Link: [https://github.com/Raphjacksun7/clipboard-healh-job-boards](https://github.com/Raphjacksun7/clipboard-healh-job-boards)
